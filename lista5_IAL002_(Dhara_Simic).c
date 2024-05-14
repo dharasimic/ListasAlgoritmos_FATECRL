@@ -1,7 +1,7 @@
 #include "stdio.h"
 #include "windows.h"
 #define ex1
-
+//teste
 #ifdef ex1
 /*Exercíco 1 da lista 05 de Algoritmos da Professora Nádia;
 O enunciado: Receba doze números positivos e armazene no vetor A. Após a alimentação de todos os números mostre apenas os
